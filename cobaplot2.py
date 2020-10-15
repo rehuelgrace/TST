@@ -19,3 +19,8 @@ ax1.set_title('Shaded')
 
 ax2.bar3d(x, y, bottom, width, depth, top, shade=False)
 ax2.set_title('Not Shaded')
+
+plt.show()
+
+#yey
+#oho
